@@ -1,6 +1,6 @@
 # TaskTrack: Simple HTML, JavaScript, and CSS Project
+![Screenshot (27)](https://github.com/abdulwahab04/To-Do-List-App/assets/88958237/413d8424-666f-4fcc-91e8-91b7b602f120)
 
-![Screenshot (26)](https://github.com/abdulwahab04/To-Do-List-App/assets/88958237/f3124fbc-8c8c-4435-978a-fb594f23ddf7)
 
 ## About
 
