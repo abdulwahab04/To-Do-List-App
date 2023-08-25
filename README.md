@@ -14,7 +14,7 @@ TaskTrack is a simple web app that works as a to-do list to help you keep track 
 
 ## Technical Overview
 
-CogniSign's technical architecture revolves around JavaScript, HTML, and CSS:
+TaskTrack's technical architecture revolves around JavaScript, HTML, and CSS:
 
 - **JavaScript:** Integrates user interactivity within the web app and links to the HTML file.
 - **HTML:** Structures the webpage itself and the content. Consists of a series of elements that communicate with the browser on how to display the content.
