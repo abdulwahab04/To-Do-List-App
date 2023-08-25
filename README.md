@@ -24,4 +24,4 @@ CogniSign's technical architecture revolves around JavaScript, HTML, and CSS:
 
 1. Clone this repository:
    ```bash
-   https://github.com/Meko6701/HT6.git
+   https://github.com/abdulwahab04/To-Do-List-App.git
